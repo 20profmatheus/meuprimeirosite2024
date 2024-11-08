@@ -28,6 +28,8 @@ header {
 h1 {
     font-size: 40px;    
     margin-right: 100px;
+    text-align: justify;
+
 }
 
 p {
